@@ -1,7 +1,7 @@
 {
   "route": "camino-frances",
   "routeId": "1",
-  "generatedAt": "2026-09-11T00:30:00Z",
+  "generatedAt": "2026-09-11T01:00:00Z",
   "baseUrl": "https://miguelzamo.github.io/miCamino/frances/alojamientos/",
   "watermark": "ChatGPT Image 14 jun 2026, 15_33_02 (5).png; white mark extracted from rounded panel; solid black box; upper-left with 3.5% margin; no grid",
   "quality": {
@@ -42,7 +42,7 @@
       "filename": "33000000100-a-web-082c5844d8-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2020/08/Albergue_Le_Chemin_vers_lEtoile_Saint_Jean_Pied_de_Port_14.jpg",
-      "bytes": 45832,
+      "bytes": 47014,
       "width": 900,
       "height": 505
     },
@@ -55,7 +55,7 @@
       "filename": "33000000100-a-web-2298b80fb1-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/01/Albergue_Hostel_Gite_Zuharpeta_Saint_Jean-Pied-de-Port_Francia_Camino_Frances_08.jpg",
-      "bytes": 49536,
+      "bytes": 49670,
       "width": 900,
       "height": 505
     },
@@ -68,7 +68,7 @@
       "filename": "33000000100-a-web-2abf0fca8a-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/02/Albergue_Gite_La_Vita_eBella_-Saint-Jean-Pied-de-Port_Camino_Frances_01.jpg",
-      "bytes": 50444,
+      "bytes": 51668,
       "width": 900,
       "height": 505
     },
@@ -81,7 +81,7 @@
       "filename": "33000000100-a-web-39253d989c-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/01/Saint-Jean-Pied-de-Port_Francia_Camino_Frances.jpg",
-      "bytes": 77836,
+      "bytes": 78370,
       "width": 900,
       "height": 505
     },
@@ -94,7 +94,7 @@
       "filename": "33000000100-a-web-873160c991-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/02/Albergue_Gite_de_la_Porte_Saint_Jacques_Saint-Jean-Pied-de-Port_Camino_Frances_01.jpg",
-      "bytes": 75470,
+      "bytes": 77632,
       "width": 900,
       "height": 505
     },
@@ -107,7 +107,7 @@
       "filename": "33000000100-a-web-d25ade2eaa-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/02/Albergue_Gite_Bidean_Saint-Jean-Pied-de-Port_Camino_Frances_10.jpg",
-      "bytes": 66426,
+      "bytes": 66994,
       "width": 900,
       "height": 505
     },
@@ -120,7 +120,7 @@
       "filename": "33000000100-a-web-d3fc83d4f9-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/02/Albergue_Gite-Compostella_St-Jean-Pied-de-Port_Francia_Camino_Frances_01.jpg",
-      "bytes": 47052,
+      "bytes": 48240,
       "width": 900,
       "height": 505
     },
@@ -133,7 +133,7 @@
       "filename": "33000000100-h-bo-01324-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Gite_Izaxulo_Saint-Jean-Pied-de-Port_Francia_06.jpg",
-      "bytes": 51734,
+      "bytes": 51640,
       "width": 900,
       "height": 505
     },
@@ -156,7 +156,7 @@
       "filename": "33000000200-h-bo-01529-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/04/Albergue_La_Coquille_Napoleon_Uhart_Cize_Francia_01.jpg",
-      "bytes": 113798,
+      "bytes": 116708,
       "width": 900,
       "height": 505
     },
@@ -169,7 +169,7 @@
       "filename": "33000000300-a-fo-00015-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/04/Albergue_Ferme_Ithurburia_Huntto_Francia.jpg",
-      "bytes": 44732,
+      "bytes": 45074,
       "width": 900,
       "height": 505
     },
@@ -182,7 +182,7 @@
       "filename": "33000000500-a-web-7c57c0ac44-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/02/Albergue_Auberge_Borda_Saint_Michel_Francia_Camino_Frances_01.jpg",
-      "bytes": 94084,
+      "bytes": 96186,
       "width": 900,
       "height": 505
     },
@@ -195,7 +195,7 @@
       "filename": "34070902601-a-web-8ee5e9ed9c-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_El_Pajar_de_Ages_Ages_Burgos_Camino_Frances_01.jpg",
-      "bytes": 41806,
+      "bytes": 42046,
       "width": 900,
       "height": 505
     },
@@ -208,7 +208,7 @@
       "filename": "34070902900-a-web-c7ea606832-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2020/01/Albergue_Hostel_La_Plazuela_Verde_Atapuerca_Burgos_Camino_Frances_01.jpg",
-      "bytes": 141532,
+      "bytes": 147558,
       "width": 900,
       "height": 505
     },
@@ -221,7 +221,7 @@
       "filename": "34070902900-a-web-f5a61d5423-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/06/Albergue_INpulso_Atapuerca_Camino_Frances_15.jpg",
-      "bytes": 108814,
+      "bytes": 111446,
       "width": 900,
       "height": 505
     },
@@ -234,7 +234,7 @@
       "filename": "34070904401-a-web-dcd368b1eb-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/01/Albergue_El_Camino_Santovenia_de_Oca_Burgos_Camino_Frances_01.jpg",
-      "bytes": 53388,
+      "bytes": 54910,
       "width": 900,
       "height": 506
     },
@@ -247,7 +247,7 @@
       "filename": "34070904401-a-web-dcd368b1eb-02.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/01/Santovenia_de_Oca_Burgos_Camino_Frances.jpg",
-      "bytes": 86886,
+      "bytes": 87948,
       "width": 900,
       "height": 505
     },
@@ -260,7 +260,7 @@
       "filename": "34070904800-a-fo-00029-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/12/Albergue_El_Caminante_Belorado_Burgos_01.jpg",
-      "bytes": 85466,
+      "bytes": 86694,
       "width": 960,
       "height": 540
     },
@@ -273,7 +273,7 @@
       "filename": "34070904800-a-fo-00030-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/01/Albergue_Cuatro_Cantones_Belorado_Burgos_01.jpg",
-      "bytes": 80308,
+      "bytes": 81244,
       "width": 898,
       "height": 505
     },
@@ -286,7 +286,7 @@
       "filename": "34070904800-a-web-0fcfa4a6d4-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/01/Albergue_A_Santiago_Belorado_Burgos_12.jpg",
-      "bytes": 43312,
+      "bytes": 44366,
       "width": 898,
       "height": 505
     },
@@ -299,7 +299,7 @@
       "filename": "34070904800-a-web-222eff0e88-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/01/Albergue_El_Salto_Belorado_Burgos_05.jpg",
-      "bytes": 68284,
+      "bytes": 72136,
       "width": 898,
       "height": 505
     },
@@ -312,7 +312,7 @@
       "filename": "34070904800-a-web-6516ff1c67-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/02/Albergue_municipal_El_Corro_Belorado_Burgos_Camino_Frances_09.jpg",
-      "bytes": 45384,
+      "bytes": 47112,
       "width": 900,
       "height": 505
     },
@@ -325,7 +325,7 @@
       "filename": "34070904800-a-web-cc0948e5b3-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_Hostelpuntob_Belorado_Burgos_Camino_Frances_09.jpg",
-      "bytes": 57258,
+      "bytes": 58402,
       "width": 900,
       "height": 505
     },
@@ -338,7 +338,7 @@
       "filename": "34070905900-a-web-4a2d1d6cf8-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/02/Albergue_Mola_Hostel_Burgos_Camino_Frances_04.jpg",
-      "bytes": 70194,
+      "bytes": 71378,
       "width": 900,
       "height": 505
     },
@@ -351,7 +351,7 @@
       "filename": "34070905900-a-web-c6cebf1e94-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/09/Albergue_Hostel_Catedral_Burgos_Camino_Frances_03.jpg",
-      "bytes": 69312,
+      "bytes": 69634,
       "width": 900,
       "height": 505
     },
@@ -364,7 +364,7 @@
       "filename": "34070909100-a-web-26a73fe343-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_Casa_Nostra_Castrojeriz_Burgos_Camino_Frances_03.jpg",
-      "bytes": 44606,
+      "bytes": 45136,
       "width": 900,
       "height": 505
     },
@@ -377,7 +377,7 @@
       "filename": "34070909100-a-web-2c0cd95c63-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/05/Albergue_La_Rinconada_Castrojeriz_Burgos_Camino_Frances_08.jpg",
-      "bytes": 109184,
+      "bytes": 110808,
       "width": 900,
       "height": 505
     },
@@ -390,7 +390,7 @@
       "filename": "34070909100-a-web-432aa4ed62-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_A_Cien_Leguas_Castrojeriz_Burgos_Camino_Frances_02.jpg",
-      "bytes": 85306,
+      "bytes": 87656,
       "width": 900,
       "height": 505
     },
@@ -403,7 +403,7 @@
       "filename": "34070909100-a-web-b555b462ed-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/03/Albergue_municipal_Fuente_Sidres_Castellanos_de_Castro_Burgos_Camino_Frances_12.jpg",
-      "bytes": 74690,
+      "bytes": 74560,
       "width": 900,
       "height": 505
     },
@@ -416,7 +416,7 @@
       "filename": "34070909100-a-web-cbecbde239-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_Orion_Castrojeriz_Burgos_Camino_Frances_05.jpg",
-      "bytes": 47404,
+      "bytes": 49188,
       "width": 900,
       "height": 505
     },
@@ -429,7 +429,7 @@
       "filename": "34070909100-a-web-e68a9ac52e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/07/Albergue_Rosalia_Castrojeriz_Burgos_01.jpg",
-      "bytes": 94330,
+      "bytes": 97102,
       "width": 900,
       "height": 505
     },
@@ -442,7 +442,7 @@
       "filename": "34070912300-a-web-055d7d5fab-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/01/Albergue_La_Taberna_Espinosa_del_Camino_Camino_Frances_07.jpg",
-      "bytes": 58984,
+      "bytes": 60658,
       "width": 900,
       "height": 505
     },
@@ -455,7 +455,7 @@
       "filename": "34070913001-a-web-8d644c3758-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2023/08/Albergue_Villamayor_Villamayor_del_Rio_Burgos_Camino_Frances_01.jpg",
-      "bytes": 101080,
+      "bytes": 102556,
       "width": 900,
       "height": 505
     },
@@ -468,7 +468,7 @@
       "filename": "34070915900-a-fo-00050-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_Santa_Brigida_Hontanas_Burgos_Camino_Frances_01.jpg",
-      "bytes": 59238,
+      "bytes": 60234,
       "width": 900,
       "height": 505
     },
@@ -481,7 +481,7 @@
       "filename": "34070915900-a-web-0bad3bcd5e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_El_Puntido_Hontanas_Burgos_Camino_Frances_05.jpg",
-      "bytes": 55516,
+      "bytes": 56546,
       "width": 900,
       "height": 506
     },
@@ -494,7 +494,7 @@
       "filename": "34070916700-a-fo-00052-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/07/Albergue_Hornillos_Meeting_Point_Hornillos_del_Camino_Burgos_07.jpg",
-      "bytes": 61232,
+      "bytes": 62324,
       "width": 900,
       "height": 505
     },
@@ -507,7 +507,7 @@
       "filename": "34070937700-a-web-1607b108d9-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/07/Albergue_La_Fabrica_Tardajos_Burgos_Camino_Frances_12.jpg",
-      "bytes": 87298,
+      "bytes": 88740,
       "width": 900,
       "height": 505
     },
@@ -520,7 +520,7 @@
       "filename": "34070937700-a-web-e5623c5c8d-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2026/08/Albergue_La_Casa_de_Beli_Tardajos_Burgos.jpg",
-      "bytes": 58184,
+      "bytes": 59534,
       "width": 900,
       "height": 506
     },
@@ -533,7 +533,7 @@
       "filename": "34070943100-a-web-1b41d3f810-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_San_Anton_Abad_Villafranca_Montes_de_Oca_Burgos_01.jpg",
-      "bytes": 63278,
+      "bytes": 64024,
       "width": 900,
       "height": 505
     },
@@ -546,7 +546,7 @@
       "filename": "34070944500-a-web-3f487348d3-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/03/Villambistia_Burgos_Camino_Frances_fuente.jpg",
-      "bytes": 79576,
+      "bytes": 81066,
       "width": 900,
       "height": 505
     },
@@ -559,7 +559,7 @@
       "filename": "34072400800-a-web-224c9dc510-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/11/Albergue_MyWay_Astorga_Leon_Camino_Frances_02.jpg",
-      "bytes": 69440,
+      "bytes": 70776,
       "width": 900,
       "height": 505
     },
@@ -572,7 +572,7 @@
       "filename": "34072400800-a-web-8a01de3b71-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2020/04/Albergue_So_Por_Hoje_Astorga_Leon_Camino_Frances_06.jpg",
-      "bytes": 45776,
+      "bytes": 47104,
       "width": 900,
       "height": 505
     },
@@ -585,7 +585,7 @@
       "filename": "34072400800-a-web-ca477c8a86-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_San_Javier_Astorga_Leon_Camino_Frances_02.jpg",
-      "bytes": 56508,
+      "bytes": 56346,
       "width": 900,
       "height": 505
     },
@@ -598,7 +598,7 @@
       "filename": "34072400801-a-web-d63c483737-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_Casa_Flor_Murias_de_Rechivaldo_Leon_Camino_Frances_01.jpg",
-      "bytes": 82710,
+      "bytes": 83818,
       "width": 900,
       "height": 523
     },
@@ -611,7 +611,7 @@
       "filename": "34072400801-a-web-f8678f2b49-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_Las_Aguedas_Murias_de_Rechivaldo_Leon_Camino_Frances_07.jpg",
-      "bytes": 108478,
+      "bytes": 109682,
       "width": 900,
       "height": 505
     },
@@ -624,7 +624,7 @@
       "filename": "34072401800-a-web-89e5765523-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/04/Albergue_La_Perala_Bercianos_del_Real_Camino_Leon_Camino_Frances_08.jpg",
-      "bytes": 46632,
+      "bytes": 46664,
       "width": 900,
       "height": 505
     },
@@ -637,7 +637,7 @@
       "filename": "34072401800-a-web-9e4ff2e54b-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/02/Albergue_Bercianos-1900_Bercianos_del_Real_Camino_Leon_14-e1563899254776.jpg",
-      "bytes": 61184,
+      "bytes": 62116,
       "width": 900,
       "height": 505
     },
@@ -650,7 +650,7 @@
       "filename": "34072402301-a-web-04cc9c07a9-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/06/Albergue_Gabino_El_Ganso_Leon_Camino_Frances_01.jpg",
-      "bytes": 110440,
+      "bytes": 114852,
       "width": 900,
       "height": 505
     },
@@ -663,7 +663,7 @@
       "filename": "34072403000-a-web-4c1291ac61-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/04/Albergue_Saint_James_Way_Cacabelos_Leon_Camino_Frances_15.jpg",
-      "bytes": 82286,
+      "bytes": 84344,
       "width": 900,
       "height": 505
     },
@@ -676,7 +676,7 @@
       "filename": "34072403000-a-web-91b0fe47a3-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/02/Albergue_La_Gallega_Hostal_Cacabelos_Leon_Camino_Frances_10.jpg",
-      "bytes": 63704,
+      "bytes": 64282,
       "width": 900,
       "height": 505
     },
@@ -689,7 +689,7 @@
       "filename": "34072403400-a-web-b0a1fac31a-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/09/Albergue_La_Medina_Hostal_Camponaraya_Leon_09.jpg",
-      "bytes": 79186,
+      "bytes": 80864,
       "width": 1024,
       "height": 575
     },
@@ -702,7 +702,7 @@
       "filename": "34072403400-a-web-c3342c5873-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/06/Albergue_Naraya_Camponaraya_Leon_Camino_Frances_01.jpg",
-      "bytes": 43546,
+      "bytes": 44882,
       "width": 900,
       "height": 505
     },
@@ -715,7 +715,7 @@
       "filename": "34072408900-a-web-0990cc5d18-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/02/Albergue_Hostel_Palacio_Jabalquinto_Leon_Camino_Frances_14.jpg",
-      "bytes": 87996,
+      "bytes": 90364,
       "width": 900,
       "height": 505
     },
@@ -728,7 +728,7 @@
       "filename": "34072408900-a-web-115b78c439-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2020/03/Albergue_Zentric_Hostel_Leon_Camino_Frances_13-e1584375284165.jpg",
-      "bytes": 93402,
+      "bytes": 96126,
       "width": 899,
       "height": 505
     },
@@ -741,7 +741,7 @@
       "filename": "34072408900-a-web-5c2d25ab4a-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/02/Leon_Catedral_vista_aerea-e1563524393525.jpg",
-      "bytes": 96548,
+      "bytes": 98550,
       "width": 900,
       "height": 505
     },
@@ -754,7 +754,7 @@
       "filename": "34072408900-a-web-7b4059db54-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/09/Albergue_Check_In_Leon_Leon_07.jpg",
-      "bytes": 62726,
+      "bytes": 65064,
       "width": 1024,
       "height": 575
     },
@@ -767,7 +767,7 @@
       "filename": "34072408900-a-web-7ee3d1862c-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/09/Albergue_Globetrotter_Urban_Hostel_Leon_03.jpg",
-      "bytes": 60642,
+      "bytes": 63192,
       "width": 1024,
       "height": 575
     },
@@ -780,7 +780,7 @@
       "filename": "34072408900-a-web-a8a31e550b-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/09/Albergue_Residencia_San_Francisco_de_Asis_Leon_01.jpg",
-      "bytes": 105374,
+      "bytes": 109516,
       "width": 1024,
       "height": 575
     },
@@ -793,7 +793,7 @@
       "filename": "34072408900-a-web-b33ea0cb6b-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/09/Albergue_Convent_Garden_Hostel_Leon_02.jpg",
-      "bytes": 72044,
+      "bytes": 74104,
       "width": 1024,
       "height": 575
     },
@@ -806,7 +806,7 @@
       "filename": "34072408900-a-web-babe085cc3-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/09/Albergue_Hostel_Rua_35_Leon_Camino_Frances_01.webp",
-      "bytes": 78990,
+      "bytes": 81784,
       "width": 900,
       "height": 505
     },
@@ -819,7 +819,7 @@
       "filename": "34072408900-a-web-d30a594400-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/09/Albergue_Santo_Tomas_de_Canterbury_Leon_02.jpg",
-      "bytes": 53770,
+      "bytes": 53426,
       "width": 1024,
       "height": 575
     },
@@ -832,7 +832,7 @@
       "filename": "34072408900-h-bo-01119-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2023/02/Albergue_Leon_Hostel_Leon_Camino_Frances_01.jpg",
-      "bytes": 67066,
+      "bytes": 69670,
       "width": 900,
       "height": 505
     },
@@ -845,7 +845,7 @@
       "filename": "34072410000-a-web-a5ae0649a0-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/06/Albergue_Compostela_Molinaseca_Leon_Camino_Frances_06.jpg",
-      "bytes": 74152,
+      "bytes": 75340,
       "width": 900,
       "height": 505
     },
@@ -858,7 +858,7 @@
       "filename": "34072410000-a-web-f20b14c2e5-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2020/01/Albergue_Senor_Oso_Molinaseca_Leon_Camino_Frances_08.jpg",
-      "bytes": 75806,
+      "bytes": 76786,
       "width": 900,
       "height": 505
     },
@@ -871,7 +871,7 @@
       "filename": "34072410002-a-web-2e5c1d9399-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/09/Albergue_La_Casa_del_Peregrino_El_Acebo_Leon_01-e1560923480633.jpg",
-      "bytes": 51098,
+      "bytes": 51608,
       "width": 900,
       "height": 505
     },
@@ -884,7 +884,7 @@
       "filename": "34072411500-a-web-be768d3789-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2023/05/Albergue_Alda_Pilgrims_Ponferrada_Leon_Camino_Frances_09.jpg",
-      "bytes": 41262,
+      "bytes": 41252,
       "width": 900,
       "height": 505
     },
@@ -897,7 +897,7 @@
       "filename": "34072411500-a-web-e6d9458d1b-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/09/Albergue_Guiana_Ponferrada_Leon_14.jpg",
-      "bytes": 59168,
+      "bytes": 60194,
       "width": 959,
       "height": 575
     },
@@ -910,7 +910,7 @@
       "filename": "34072411500-a-web-f2579b1370-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2023/07/Albergue_El_Templarin_Ponferrada_Leon_Camino_Frances_01.jpg",
-      "bytes": 29526,
+      "bytes": 30128,
       "width": 900,
       "height": 505
     },
@@ -923,7 +923,7 @@
       "filename": "34072413900-a-web-c416398ec2-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2026/05/Albergue_Viatoris_Sahagun_Leon_06.jpg",
-      "bytes": 99404,
+      "bytes": 99782,
       "width": 1024,
       "height": 575
     },
@@ -936,7 +936,7 @@
       "filename": "34072413900-a-web-f9a4a287ca-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/08/Albergue_hotel_Dormero_Sahagun_Camino_Frances_01.webp",
-      "bytes": 81306,
+      "bytes": 82422,
       "width": 900,
       "height": 505
     },
@@ -949,7 +949,7 @@
       "filename": "34072415201-a-fo-00123-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/06/Albergue_La_Senda_Rabanal_del_Camino_Leon_Camino_Frances_01.jpg",
-      "bytes": 85048,
+      "bytes": 86366,
       "width": 900,
       "height": 505
     },
@@ -962,7 +962,7 @@
       "filename": "34072415202-a-web-29730f6424-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/06/Albergue_El_Convento_de_Foncebadon_Leon_Camino_Frances_03.jpg",
-      "bytes": 116620,
+      "bytes": 120978,
       "width": 900,
       "height": 505
     },
@@ -975,7 +975,7 @@
       "filename": "34072415901-a-web-069b0c4a80-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/05/Albergue_La_Huella_San_Martin_del_Camino_Leon_Camino_Frances_01.jpg",
-      "bytes": 41630,
+      "bytes": 42958,
       "width": 900,
       "height": 505
     },
@@ -988,7 +988,7 @@
       "filename": "34072415901-a-web-270f050b81-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/04/Albergue_La_Casa_Verde_San_Martin_del_Camino_Leon_Camino_Frances_03.jpg",
-      "bytes": 71920,
+      "bytes": 72496,
       "width": 900,
       "height": 505
     },
@@ -1001,7 +1001,7 @@
       "filename": "34072415901-a-web-6360a73159-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/09/Albergue_Santa_Ana_San_Martin_del_Camino_Leon_12.jpg",
-      "bytes": 101354,
+      "bytes": 104498,
       "width": 1024,
       "height": 575
     },
@@ -1014,7 +1014,7 @@
       "filename": "34072415902-a-web-f344442a30-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2020/04/Albergue_Santa_Lucia_Villavante_Leon_Camino_Frances_04.jpg",
-      "bytes": 41912,
+      "bytes": 42388,
       "width": 900,
       "height": 505
     },
@@ -1027,7 +1027,7 @@
       "filename": "34072416001-a-web-73805a0295-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/07/Albergue_Vive_Tu_Camino_Reliegos_Leon_01.jpg",
-      "bytes": 80488,
+      "bytes": 80868,
       "width": 900,
       "height": 505
     },
@@ -1040,7 +1040,7 @@
       "filename": "34072416001-a-web-cd0acbb955-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/03/Albergue_Las_Hadas_Reliegos_Leon_Camino_Frances_01.jpg",
-      "bytes": 84396,
+      "bytes": 86256,
       "width": 900,
       "height": 505
     },
@@ -1053,7 +1053,7 @@
       "filename": "34072417100-a-web-7626c16929-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/02/Albergue_Camino_y_Leyenda_Trabadelo_Leon_Camino_Frances_10.jpg",
-      "bytes": 101674,
+      "bytes": 103316,
       "width": 900,
       "height": 505
     },
@@ -1066,7 +1066,7 @@
       "filename": "34072418900-a-fo-00142-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/02/Albergue_La_Casa_del_Camino_Valverde_de_la_Virgen_Camino_Frances_01.jpg",
-      "bytes": 159240,
+      "bytes": 164266,
       "width": 900,
       "height": 505
     },
@@ -1079,7 +1079,7 @@
       "filename": "34072419800-a-web-6ad5125fc5-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/04/Albergue-Pension_Fernandez_Vega_de_Valcarce_Camino_Frances_01.jpg",
-      "bytes": 66540,
+      "bytes": 66624,
       "width": 900,
       "height": 505
     },
@@ -1092,7 +1092,7 @@
       "filename": "34072419800-a-web-d0d10fa5f9-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2026/08/Albergue_El_Paso_Vega_de_Valcarce_Leon_01.jpg",
-      "bytes": 131728,
+      "bytes": 133872,
       "width": 1024,
       "height": 575
     },
@@ -1105,7 +1105,7 @@
       "filename": "34072419803-a-web-0cd1bd8cf7-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/02/Albergue_Casa_Lixa_Las_Herrerias_de_Valcarce_Leon_Camino_Frances_01.jpg",
-      "bytes": 101406,
+      "bytes": 103790,
       "width": 900,
       "height": 505
     },
@@ -1118,7 +1118,7 @@
       "filename": "34072419805-a-web-4929e7e86b-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/04/Albergue_La_Escuela_La_Laguna_de_Castilla_Leon_Camino_Frances_04.jpg",
-      "bytes": 86362,
+      "bytes": 88584,
       "width": 900,
       "height": 505
     },
@@ -1131,7 +1131,7 @@
       "filename": "34072419806-a-web-a9e8f40c09-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/01/Albergue_Casa_del_Pescador_Ambasmestas_Leon_13.jpg",
-      "bytes": 94640,
+      "bytes": 94774,
       "width": 900,
       "height": 506
     },
@@ -1144,7 +1144,7 @@
       "filename": "34072420500-a-web-7c664dc2eb-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2026/03/Albergue_La_Santa_Siesta_Villadangos_del_Paramo_Camino_Frances_19.webp",
-      "bytes": 52518,
+      "bytes": 52480,
       "width": 900,
       "height": 505
     },
@@ -1157,7 +1157,7 @@
       "filename": "34072420900-a-web-0411b173b1-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_de_la_Piedra_Villafranca_del_Bierzo_Leon_Camino_Frances_10.jpg",
-      "bytes": 58862,
+      "bytes": 59400,
       "width": 900,
       "height": 505
     },
@@ -1170,7 +1170,7 @@
       "filename": "34072420900-a-web-39aeada59d-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/02/Villafranca_del_Bierzo_Leon_vista.jpg",
-      "bytes": 103484,
+      "bytes": 105564,
       "width": 1024,
       "height": 575
     },
@@ -1183,7 +1183,7 @@
       "filename": "34072420900-a-web-9fa6f351db-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/02/Albergue_El_Castillo_Villafranca_del_Bierzo_Leon_Camino_Frances_17.jpg",
-      "bytes": 48790,
+      "bytes": 51222,
       "width": 900,
       "height": 505
     },
@@ -1196,7 +1196,7 @@
       "filename": "34072420900-a-web-cb6ba61d13-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/09/Albergue_San_Nicolas_El_Real_Villafranca_del_Bierzo_11.jpg",
-      "bytes": 112046,
+      "bytes": 114254,
       "width": 1024,
       "height": 575
     },
@@ -1209,7 +1209,7 @@
       "filename": "34072420900-a-web-cd269103e5-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/02/Albergue_Vina_Femita_Villafranca_del_Bierzo_Camino_Frances_08.jpg",
-      "bytes": 71480,
+      "bytes": 73778,
       "width": 900,
       "height": 505
     },
@@ -1222,7 +1222,7 @@
       "filename": "34072422400-a-web-15f99c8485-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_El_Encanto_Villares_de_Orbigo_Leon_Camino_Frances_01.jpg",
-      "bytes": 78812,
+      "bytes": 79456,
       "width": 900,
       "height": 505
     },
@@ -1235,7 +1235,7 @@
       "filename": "34072422400-a-web-e529e7fa1c-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/01/Albergue_Villares_Villares_de_Orbigo_Leon_Camino_Frances_16.jpg",
-      "bytes": 107008,
+      "bytes": 108998,
       "width": 900,
       "height": 505
     },
@@ -1248,7 +1248,7 @@
       "filename": "34072422701-a-web-6dbf74ca70-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_El_Delfin_Verde_Puente_Villarente_Leon_Camino_Frances_02.jpg",
-      "bytes": 102676,
+      "bytes": 104034,
       "width": 900,
       "height": 505
     },
@@ -1261,7 +1261,7 @@
       "filename": "34072422701-a-web-b27a227e21-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/07/Albergue_San_Pelayo_Puente_Villarente_Leon_05.jpg",
-      "bytes": 68480,
+      "bytes": 69162,
       "width": 900,
       "height": 505
     },
@@ -1274,7 +1274,7 @@
       "filename": "34073403400-a-fo-00167-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_En_el_Camino_Boadilla_del_Camino_Palencia_Camino_Frances_11.jpg",
-      "bytes": 62770,
+      "bytes": 63764,
       "width": 900,
       "height": 505
     },
@@ -1287,7 +1287,7 @@
       "filename": "34073405501-a-web-4234e82437-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2020/05/Albergue_Los_Canarios_Calzadilla_de_la_Cueza_Palencia_Camino_Frances_05.jpg",
-      "bytes": 51130,
+      "bytes": 52510,
       "width": 900,
       "height": 505
     },
@@ -1300,7 +1300,7 @@
       "filename": "34073405501-a-web-c11c714a5d-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/03/Albergue_Camino_Real_Calzadilla_de_la_Cueza_Palencia_Camino_Frances_01.jpg",
-      "bytes": 73130,
+      "bytes": 74508,
       "width": 900,
       "height": 505
     },
@@ -1313,7 +1313,7 @@
       "filename": "34073407400-a-web-493bbac27e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_Estrella_del_Camino_Fromista_Palencia_Camino_Frances_01.jpg",
-      "bytes": 41124,
+      "bytes": 41416,
       "width": 900,
       "height": 505
     },
@@ -1326,7 +1326,7 @@
       "filename": "34073409101-a-web-2eac51a0a3-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/08/Albergue_Los_Templarios_Terradillo_de_los_templarios_Palencia_Camino_Frances_02.jpg",
-      "bytes": 64702,
+      "bytes": 69302,
       "width": 900,
       "height": 505
     },
@@ -1339,7 +1339,7 @@
       "filename": "34073409400-a-web-4f5fc9b9c6-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/01/Albergue_La_Morena_Ledigos_Palencia_Camino_Frances_14.jpg",
-      "bytes": 38146,
+      "bytes": 38260,
       "width": 900,
       "height": 505
     },
@@ -1352,7 +1352,7 @@
       "filename": "34073409400-a-web-65d07ea921-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/07/Albergue_El_Palomar_Ledigos_Palencia_05.jpg",
-      "bytes": 54598,
+      "bytes": 56510,
       "width": 900,
       "height": 505
     },
@@ -1365,7 +1365,7 @@
       "filename": "34073410900-a-fo-00185-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/11/Albergue_San_Bruno_Moratinos_Palencia_04-e1563867407253.jpg",
-      "bytes": 61128,
+      "bytes": 62160,
       "width": 900,
       "height": 505
     },
@@ -1378,7 +1378,7 @@
       "filename": "34073410900-a-web-e8af7b386e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/11/Hostal_Albergue_Moratinos_Moratinos_Palencia_02-e1563868049101.jpg",
-      "bytes": 43442,
+      "bytes": 43824,
       "width": 900,
       "height": 505
     },
@@ -1391,7 +1391,7 @@
       "filename": "34073410901-a-web-f87479cc77-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/04/Albergue_Albergueria_Laganares_San_Nicolas_del_Real_Camino_Palencia_Camino_Frances_01.jpg",
-      "bytes": 86308,
+      "bytes": 87202,
       "width": 900,
       "height": 505
     },
@@ -1404,7 +1404,7 @@
       "filename": "34073421500-a-web-6f10cf73d4-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/08/Albergue_Tasca_Don_Camino_Villalcazar_de_Sirga_Palencia_Camino_Frances_01.jpg",
-      "bytes": 41828,
+      "bytes": 42698,
       "width": 900,
       "height": 505
     },
@@ -1417,7 +1417,7 @@
       "filename": "34121500600-a-web-135b235adf-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/04/Albergue_San_Francisco_Arzua_Camino_Frances_05.jpg",
-      "bytes": 74156,
+      "bytes": 75572,
       "width": 900,
       "height": 505
     },
@@ -1430,7 +1430,7 @@
       "filename": "34121500600-a-web-14dc45eddc-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Via_Lactea_Arzua_La_Coruna_Camino_Frances_14.jpg",
-      "bytes": 70596,
+      "bytes": 72198,
       "width": 900,
       "height": 505
     },
@@ -1443,7 +1443,7 @@
       "filename": "34121500600-a-web-29b6210d8b-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2020/04/Albergue_Los_Tres_Abetos_Arzua_La_Coruna_Camino_Frances_05.jpg",
-      "bytes": 90980,
+      "bytes": 94446,
       "width": 900,
       "height": 505
     },
@@ -1456,7 +1456,7 @@
       "filename": "34121500600-a-web-67fe350138-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/01/Albergue_Amodino_Arzua_Camino_Frances_01.jpg",
-      "bytes": 82346,
+      "bytes": 84536,
       "width": 900,
       "height": 505
     },
@@ -1469,7 +1469,7 @@
       "filename": "34121500600-a-web-82b669fcb8-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/09/Albergue_O_Santo_Arzua_03-e1561650252284.jpg",
-      "bytes": 41080,
+      "bytes": 41188,
       "width": 900,
       "height": 505
     },
@@ -1482,7 +1482,7 @@
       "filename": "34121500600-a-web-94ca74402d-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Los_Caminantes_Arzua_La_Coruna_Camino_Frances_04.jpg",
-      "bytes": 41888,
+      "bytes": 42542,
       "width": 900,
       "height": 505
     },
@@ -1495,7 +1495,7 @@
       "filename": "34121500600-a-web-9a57888b98-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_del_Peregrino_Arzua_La_Coruna_Camino_Frances_01.jpg",
-      "bytes": 38394,
+      "bytes": 39958,
       "width": 900,
       "height": 505
     },
@@ -1508,7 +1508,7 @@
       "filename": "34121500600-a-web-d893541811-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/08/Albergue-Pension_Cima_do_Lugar_Arzua_05-e1561649210780.jpg",
-      "bytes": 38608,
+      "bytes": 39044,
       "width": 900,
       "height": 505
     },
@@ -1521,7 +1521,7 @@
       "filename": "34121500600-a-web-e202485629-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Ultreia_Arzua_La_Coruna_Camino_Frances_14.jpg",
-      "bytes": 59808,
+      "bytes": 61250,
       "width": 900,
       "height": 505
     },
@@ -1534,7 +1534,7 @@
       "filename": "34121500600-a-web-eeae4ca865-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/02/Albergue_Cruce_de_Caminos_Arzua_La_Coruna_Camino_Frances_01.jpg",
-      "bytes": 80464,
+      "bytes": 82556,
       "width": 900,
       "height": 505
     },
@@ -1547,7 +1547,7 @@
       "filename": "34121500600-a-web-eeda08d141-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/08/Albergue_de_Camino_Arzua_05-e1561649548228.jpg",
-      "bytes": 31654,
+      "bytes": 32060,
       "width": 900,
       "height": 505
     },
@@ -1560,7 +1560,7 @@
       "filename": "34121500601-a-web-85ae9a4f48-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_de_peregrinos_Milpes_Ribadiso_da_Baixo_Camino_Frances_03.jpg",
-      "bytes": 77776,
+      "bytes": 77888,
       "width": 900,
       "height": 505
     },
@@ -1573,7 +1573,7 @@
       "filename": "34121500601-a-web-8df9d1811f-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/03/Albergue_Los_Caminantes_Ribadiso_da_Baixo_Camino_Frances_12.jpg",
-      "bytes": 84910,
+      "bytes": 87000,
       "width": 900,
       "height": 505
     },
@@ -1586,7 +1586,7 @@
       "filename": "34121500601-a-web-dce89dcc3a-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/12/Albergue_Miraiso_Ribadiso_da_Baixo_Camino_Frances_02.jpg",
-      "bytes": 53826,
+      "bytes": 54376,
       "width": 900,
       "height": 505
     },
@@ -1599,7 +1599,7 @@
       "filename": "34121500602-a-web-c954a8ebb2-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/04/Albergue_de_Boente_La_Coruna_Camino_Frances_01.jpg",
-      "bytes": 51684,
+      "bytes": 53004,
       "width": 900,
       "height": 505
     },
@@ -1612,7 +1612,7 @@
       "filename": "34121500602-a-web-f4cdb4dcec-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/01/Albergue_El_Aleman_Boente_La_Coruna_Camino_Frances_01.jpg",
-      "bytes": 46616,
+      "bytes": 46426,
       "width": 900,
       "height": 505
     },
@@ -1625,7 +1625,7 @@
       "filename": "34121504600-a-web-2e879f1c9e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_O_Candil_Melide_La_Coruna_Camino_Frances_04.jpg",
-      "bytes": 91968,
+      "bytes": 94338,
       "width": 900,
       "height": 505
     },
@@ -1638,7 +1638,7 @@
       "filename": "34121504600-a-web-38a3a0a11d-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Arraigos_Melide_La_Coruna_Camino_Frances_04.jpg",
-      "bytes": 66006,
+      "bytes": 66510,
       "width": 900,
       "height": 505
     },
@@ -1651,7 +1651,7 @@
       "filename": "34121504600-a-web-452bfd51eb-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/03/Albergue_de_Melide_Melide_Camino_Frances_01.jpg",
-      "bytes": 72712,
+      "bytes": 73388,
       "width": 900,
       "height": 505
     },
@@ -1664,7 +1664,7 @@
       "filename": "34121504600-a-web-58c22a9ee4-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_San_Anton_Melide_La_Coruna_Camino_Frances_04.jpg",
-      "bytes": 78142,
+      "bytes": 79030,
       "width": 900,
       "height": 505
     },
@@ -1677,7 +1677,7 @@
       "filename": "34121504600-a-web-7104545336-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/01/Albergue_Alfonso_II_el_Casto_Melide_fachada-e1561541350539.jpg",
-      "bytes": 42786,
+      "bytes": 43356,
       "width": 900,
       "height": 505
     },
@@ -1690,7 +1690,7 @@
       "filename": "34121504600-a-web-a920f41898-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/01/Albergue_Hostel_Pereiro_Melide_La_Coruna_12-e1561542963191.jpg",
-      "bytes": 65048,
+      "bytes": 66122,
       "width": 900,
       "height": 505
     },
@@ -1703,7 +1703,7 @@
       "filename": "34121504600-a-web-b2a0402749-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/08/Albergue_de_peregrinos_Montoto_Melide_La_Coruna_01-e1561542174563.jpg",
-      "bytes": 61038,
+      "bytes": 61790,
       "width": 900,
       "height": 505
     },
@@ -1716,7 +1716,7 @@
       "filename": "34121504600-a-web-c7b0cb8f79-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_O_Apalpador_Melide_La_Coruna_Camino_Frances_08.jpg",
-      "bytes": 79836,
+      "bytes": 82360,
       "width": 900,
       "height": 505
     },
@@ -1729,7 +1729,7 @@
       "filename": "34121506600-a-web-fe6d9b52c8-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/04/Albergue_Espiritu_Xacobeo_A_Rua_O_Pedrouzo_Camino_Frances_18.jpg",
-      "bytes": 29372,
+      "bytes": 29544,
       "width": 900,
       "height": 505
     },
@@ -1742,7 +1742,7 @@
       "filename": "34121506602-a-web-0b2d95a970-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_O_Trisquel_O_Pedrouzo_La_Coruna_Camino_Frances_01.jpg",
-      "bytes": 31924,
+      "bytes": 31740,
       "width": 900,
       "height": 506
     },
@@ -1755,7 +1755,7 @@
       "filename": "34121506602-a-web-0c3a5684cb-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Cruceiro_de_Pedrouzo_O_Pedrouzo_La_Coruna_Camino_Frances_01.jpg",
-      "bytes": 39676,
+      "bytes": 39730,
       "width": 900,
       "height": 505
     },
@@ -1768,7 +1768,7 @@
       "filename": "34121506602-a-web-0d5d8eb2a7-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/06/Albergue_Mirador_de_Pedrouzo_O_Pedrouzo_Camino_Frances_12.jpg",
-      "bytes": 104264,
+      "bytes": 105602,
       "width": 900,
       "height": 505
     },
@@ -1781,7 +1781,7 @@
       "filename": "34121506602-a-web-7721bb2696-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/04/Albergue_Hostel_Azul_Cielo_O_Pedrouzo_Camino_Frances_01.jpg",
-      "bytes": 133302,
+      "bytes": 135442,
       "width": 900,
       "height": 505
     },
@@ -1794,7 +1794,7 @@
       "filename": "34121506602-a-web-d67c975914-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_de_peregrinos_REMhostel_Pedrouzo_entrada-e1561959778281.jpg",
-      "bytes": 49750,
+      "bytes": 50534,
       "width": 900,
       "height": 505
     },
@@ -1807,7 +1807,7 @@
       "filename": "34121506602-a-web-f0431b48b1-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/02/Albergue_O_Burgo_O_Pedrouzo_La_Coruna_Camino_Frances_01.jpg",
-      "bytes": 80330,
+      "bytes": 81292,
       "width": 900,
       "height": 505
     },
@@ -1820,7 +1820,7 @@
       "filename": "34121506603-a-web-519bca1df8-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/08/Albergue_de_peregrinos_La_Pousada_de_Salceda_Salceda_entrada.jpg",
-      "bytes": 68632,
+      "bytes": 69602,
       "width": 900,
       "height": 505
     },
@@ -1833,7 +1833,7 @@
       "filename": "34121506603-a-web-a1658d9c8e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/07/Albergue_La_Corona_Salceda_La_Coruna_Camino_Frances_01.jpg",
-      "bytes": 153034,
+      "bytes": 154044,
       "width": 900,
       "height": 505
     },
@@ -1846,7 +1846,7 @@
       "filename": "34121506603-a-web-c7301102d6-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/04/Albergue_Pension_Alborada_A_Salceda_La_Coruna_Camino_Frances_08.jpg",
-      "bytes": 61732,
+      "bytes": 62222,
       "width": 900,
       "height": 505
     },
@@ -1859,7 +1859,7 @@
       "filename": "34121507801-a-web-82ff04ad8a-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/07/Albergue_Benvido_Monte_do_Gozo_Santiago_de_Compostela_Camino_Frances_11.jpg",
-      "bytes": 126516,
+      "bytes": 129382,
       "width": 900,
       "height": 505
     },
@@ -1872,7 +1872,7 @@
       "filename": "34121507803-a-web-9561d090c2-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2023/08/Albergue_A_Fabrica_Lavacolla_Camino_Frances_12.jpg",
-      "bytes": 129626,
+      "bytes": 135400,
       "width": 900,
       "height": 505
     },
@@ -1885,7 +1885,7 @@
       "filename": "34121507804-a-web-818c2c9676-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/12/Albergue_O_Fervello_Vilamaior_Camino_Frances_01.jpg",
-      "bytes": 68196,
+      "bytes": 71016,
       "width": 900,
       "height": 505
     },
@@ -1898,7 +1898,7 @@
       "filename": "34122701804-a-fo-00240-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2026/04/Albergue_A_Reboleira_Fonfria_Lugo_Camino_Frances_01.webp",
-      "bytes": 99862,
+      "bytes": 100810,
       "width": 900,
       "height": 505
     },
@@ -1911,7 +1911,7 @@
       "filename": "34122704000-a-web-028bde7229-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/12/Albergue_A_Casina_di_Marcello_Palas_de_Rei_Lugo_04-e1561446767579.jpg",
-      "bytes": 55436,
+      "bytes": 57128,
       "width": 900,
       "height": 505
     },
@@ -1924,7 +1924,7 @@
       "filename": "34122704000-a-web-12564e261a-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2020/01/Pension_Arenas_Palas_Palas_de_Rei_Lugo_Camino_Frances_09.jpg",
-      "bytes": 66886,
+      "bytes": 67692,
       "width": 900,
       "height": 505
     },
@@ -1937,7 +1937,7 @@
       "filename": "34122704000-a-web-30e89c3f38-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/12/Albergue_O_Cabalo_Verde_Palas_de_Rei_10-e1561447549238.jpg",
-      "bytes": 44798,
+      "bytes": 45732,
       "width": 900,
       "height": 505
     },
@@ -1950,7 +1950,7 @@
       "filename": "34122704000-a-web-44b421bcd1-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_San_Marcos_Palas_de_Rei_Lugo_Camino_Frances_01.jpg",
-      "bytes": 66838,
+      "bytes": 67808,
       "width": 900,
       "height": 505
     },
@@ -1963,7 +1963,7 @@
       "filename": "34122704000-a-web-6017bbf40f-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_Outeiro_Palas_de_Rei_Lugo_Camino_Frances_02.jpg",
-      "bytes": 42754,
+      "bytes": 43486,
       "width": 900,
       "height": 505
     },
@@ -1976,7 +1976,7 @@
       "filename": "34122704000-a-web-a064d16ff3-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/12/Albergue_Zendoira_Palas_de_Rei_Lugo_11-e1561448302151.jpg",
-      "bytes": 40942,
+      "bytes": 41676,
       "width": 900,
       "height": 505
     },
@@ -1989,7 +1989,7 @@
       "filename": "34122704000-a-web-aad1335746-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2023/04/Albergue_Valin_Lama_Palas_de_Rei_Lugo_Camino_Frances_12.jpg",
-      "bytes": 49006,
+      "bytes": 49250,
       "width": 900,
       "height": 505
     },
@@ -2002,7 +2002,7 @@
       "filename": "34122704000-a-web-f7f2079b5c-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/06/Albergue_Freixo_Palas_de_Rei_Camino_Frances_01.jpg",
-      "bytes": 44834,
+      "bytes": 45506,
       "width": 900,
       "height": 505
     },
@@ -2015,7 +2015,7 @@
       "filename": "34122704013-a-web-7c517a74db-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_O_Abrigadoiro_San_Xulian_do_Camino_Lugo_Camino_Frances_07.jpg",
-      "bytes": 99614,
+      "bytes": 100666,
       "width": 900,
       "height": 505
     },
@@ -2028,7 +2028,7 @@
       "filename": "34122704201-a-web-6aecb5ab20-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/04/Albergue_Mercadoiro_Lugo_Camino_Frances_vista.jpg",
-      "bytes": 95154,
+      "bytes": 95628,
       "width": 900,
       "height": 505
     },
@@ -2041,7 +2041,7 @@
       "filename": "34122704202-a-web-661fba8dcf-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/06/Albergue_A_Ponte_de_Ferreiros_A_Calle_La_Coruna_Camino_Frances_01.jpg",
-      "bytes": 30816,
+      "bytes": 31516,
       "width": 900,
       "height": 505
     },
@@ -2054,7 +2054,7 @@
       "filename": "34122704505-a-web-07171381f6-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/12/Albergue_Linar_do_Rei_Linares_Lugo_16-e1560494671705.jpg",
-      "bytes": 35404,
+      "bytes": 35546,
       "width": 900,
       "height": 505
     },
@@ -2067,7 +2067,7 @@
       "filename": "34122704900-a-web-19ebb13d97-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_Aqua_Portomarin_Portomarin_Lugo_Camino_Frances_02.jpg",
-      "bytes": 63364,
+      "bytes": 65260,
       "width": 1024,
       "height": 575
     },
@@ -2080,7 +2080,7 @@
       "filename": "34122704900-a-web-2907b5447d-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/12/Albergue_Huellas_Portomarin_Camino_Frances_01.jpg",
-      "bytes": 36186,
+      "bytes": 36774,
       "width": 900,
       "height": 505
     },
@@ -2093,7 +2093,7 @@
       "filename": "34122704900-a-web-2f918974f2-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2020/01/Albergue_Ultreia_Portomarin_Lugo_Camino_Frances_01.jpg",
-      "bytes": 47072,
+      "bytes": 47364,
       "width": 900,
       "height": 505
     },
@@ -2106,7 +2106,7 @@
       "filename": "34122704900-a-web-5d5ddae9a5-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/03/Albergue_Pons_Minea_Portomarin_Camino_Frances_06.jpg",
-      "bytes": 79366,
+      "bytes": 81280,
       "width": 900,
       "height": 505
     },
@@ -2119,7 +2119,7 @@
       "filename": "34122704900-a-web-66803b3d3e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_Folgueira_Portomarin_Lugo_Camino_Frances_12.jpg",
-      "bytes": 38680,
+      "bytes": 40040,
       "width": 900,
       "height": 505
     },
@@ -2132,7 +2132,7 @@
       "filename": "34122704900-a-web-6802d1c914-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_El_Caminante_Portomarin_Lugo_Camino_Frances_01.jpg",
-      "bytes": 37906,
+      "bytes": 39618,
       "width": 900,
       "height": 505
     },
@@ -2145,7 +2145,7 @@
       "filename": "34122704900-a-web-7225367e46-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/08/Albergue_Casona-da-Ponte_Portomarin_Lugo_Camino_Frances_01.jpg",
-      "bytes": 61814,
+      "bytes": 62748,
       "width": 900,
       "height": 505
     },
@@ -2158,7 +2158,7 @@
       "filename": "34122704900-a-web-b0018b9c88-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/12/Albergue_PortoSantiago_Portomarin_Camino_Frances_21.jpg",
-      "bytes": 44648,
+      "bytes": 44754,
       "width": 900,
       "height": 505
     },
@@ -2171,7 +2171,7 @@
       "filename": "34122704900-a-web-cd00b6718b-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/02/Albergue_Ferramenteiro_Portomarin_Lugo_Camino_Frances_08.jpg",
-      "bytes": 88270,
+      "bytes": 88492,
       "width": 900,
       "height": 467
     },
@@ -2184,7 +2184,7 @@
       "filename": "34122704900-h-bo-01301-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_Casa_do_Marabillas_Portomarin_Lugo_Camino_Frances_01.jpg",
-      "bytes": 85824,
+      "bytes": 86524,
       "width": 900,
       "height": 505
     },
@@ -2197,7 +2197,7 @@
       "filename": "34122704901-a-web-8eb435786a-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2020/01/Hosteria_de_Gonzar_Gonzar_Lugo_Camino_Frances_07.jpg",
-      "bytes": 54360,
+      "bytes": 56254,
       "width": 900,
       "height": 505
     },
@@ -2210,7 +2210,7 @@
       "filename": "34122705500-a-web-5a8cbb843f-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Val_de_Samos_Samos_Lugo_Camino_Frances_01.jpg",
-      "bytes": 62782,
+      "bytes": 63044,
       "width": 900,
       "height": 505
     },
@@ -2223,7 +2223,7 @@
       "filename": "34122705500-a-web-677fe1cfc6-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/06/Albergue_Tras_do_Convento_Samos_Lugo_Camino_Frances_08.jpg",
-      "bytes": 64294,
+      "bytes": 64748,
       "width": 900,
       "height": 505
     },
@@ -2236,7 +2236,7 @@
       "filename": "34122705507-a-web-1702b92482-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/02/Albergue_de_peregrinos_El_Beso_A_Balsa_Triacastela_Camino_Frances_01.jpg",
-      "bytes": 109374,
+      "bytes": 110872,
       "width": 900,
       "height": 505
     },
@@ -2249,7 +2249,7 @@
       "filename": "34122705701-a-web-10539ac751-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Casa_Morgade_Morgade_Lugo_Camino_Frances_03.jpg",
-      "bytes": 96178,
+      "bytes": 97898,
       "width": 900,
       "height": 505
     },
@@ -2262,7 +2262,7 @@
       "filename": "34122705702-a-fo-00314-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_O_Pombal_Barbadelo_Lugo_Camino_Frances_01.jpg",
-      "bytes": 39112,
+      "bytes": 40404,
       "width": 900,
       "height": 505
     },
@@ -2275,7 +2275,7 @@
       "filename": "34122705702-a-web-fac2d02f4d-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/01/Albergue_Casa_Barbadelo_Barbadelo_Lugo_10-e1560934292664.jpg",
-      "bytes": 93122,
+      "bytes": 95526,
       "width": 900,
       "height": 505
     },
@@ -2288,7 +2288,7 @@
       "filename": "34122705703-a-web-abc0f240fe-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/01/Ventas_de_Naron_Lugo_capilla_A_Madalena-e1561102164731.jpg",
-      "bytes": 85942,
+      "bytes": 88410,
       "width": 900,
       "height": 505
     },
@@ -2301,7 +2301,7 @@
       "filename": "34122705711-a-web-0585099945-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/03/Albergue_Monasterio_de_la_Magdalena_Sarria_01.jpg",
-      "bytes": 81172,
+      "bytes": 82038,
       "width": 900,
       "height": 505
     },
@@ -2314,7 +2314,7 @@
       "filename": "34122705711-a-web-0a7f205a95-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/02/Albergue_Los_Blasones_Sarria_Camino_Frances_01.jpg",
-      "bytes": 61688,
+      "bytes": 62504,
       "width": 900,
       "height": 505
     },
@@ -2327,7 +2327,7 @@
       "filename": "34122705711-a-web-0bed07b43f-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Casa_Don_Alvaro_Sarria_lugo_Camino_Frances_01.jpg",
-      "bytes": 93998,
+      "bytes": 96362,
       "width": 900,
       "height": 505
     },
@@ -2340,7 +2340,7 @@
       "filename": "34122705711-a-web-11013e90c3-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_O_Durminento_Sarria_Lugo_Camino_Frances_02.jpg",
-      "bytes": 43764,
+      "bytes": 44240,
       "width": 900,
       "height": 505
     },
@@ -2353,7 +2353,7 @@
       "filename": "34122705711-a-web-1a089a3a3b-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/01/Albergue_Oasis_Sarria_Lugo_Camino_Frances_01.jpg",
-      "bytes": 50818,
+      "bytes": 54098,
       "width": 900,
       "height": 505
     },
@@ -2366,7 +2366,7 @@
       "filename": "34122705711-a-web-2fda7fad6f-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/04/Albergue_Alma_do_Camino_Sarria_Lugo_Camino_Frances_01.jpg",
-      "bytes": 94410,
+      "bytes": 97312,
       "width": 900,
       "height": 505
     },
@@ -2379,7 +2379,7 @@
       "filename": "34122705711-a-web-33bc4d7f56-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_La_Casona_Sarria_Sarria_Lugo_Camino_Frances_03.jpg",
-      "bytes": 95330,
+      "bytes": 97656,
       "width": 900,
       "height": 505
     },
@@ -2392,7 +2392,7 @@
       "filename": "34122705711-a-web-3a7961d2be-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Internacional_Sarria_Lugo_Camino_Frances_02.jpg",
-      "bytes": 69136,
+      "bytes": 70498,
       "width": 900,
       "height": 505
     },
@@ -2405,7 +2405,7 @@
       "filename": "34122705711-a-web-430731762e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_San_Lazaro_Sarria_26.jpg",
-      "bytes": 77692,
+      "bytes": 80254,
       "width": 900,
       "height": 505
     },
@@ -2418,7 +2418,7 @@
       "filename": "34122705711-a-web-45e56116dd-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Obradoiro_Sarria_Lugo_Camino_Frances_01.jpg",
-      "bytes": 64646,
+      "bytes": 67322,
       "width": 900,
       "height": 505
     },
@@ -2431,7 +2431,7 @@
       "filename": "34122705711-a-web-48a6b2049e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Puente_Ribeira_Sarria_Lugo_Camino_Frances_13.jpg",
-      "bytes": 43428,
+      "bytes": 43330,
       "width": 900,
       "height": 505
     },
@@ -2444,7 +2444,7 @@
       "filename": "34122705711-a-web-71f8471e8c-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/06/Albergue_El_Castillo_Sarria_Camino_Frances_01.jpg",
-      "bytes": 47836,
+      "bytes": 49384,
       "width": 900,
       "height": 505
     },
@@ -2457,7 +2457,7 @@
       "filename": "34122705711-a-web-7b1e9f9179-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/12/Albergue_HR_Sarria_Camino_Frances_01.jpg",
-      "bytes": 46624,
+      "bytes": 47586,
       "width": 900,
       "height": 505
     },
@@ -2470,7 +2470,7 @@
       "filename": "34122705711-a-web-7ddabab74f-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2020/02/Albergue_Barullo_Sarria_Lugo_Camino_Frances_14.jpg",
-      "bytes": 48728,
+      "bytes": 50226,
       "width": 900,
       "height": 505
     },
@@ -2483,7 +2483,7 @@
       "filename": "34122705711-a-web-90f445c407-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Sarria_Lugo_Camino_Frances_timpano_iglesia_San_Salvador.jpg",
-      "bytes": 109596,
+      "bytes": 112590,
       "width": 900,
       "height": 505
     },
@@ -2496,7 +2496,7 @@
       "filename": "34122705711-a-web-ad462fdfe5-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_A_Pedra_Sarria_Lugo_Camino_Frances_03.jpg",
-      "bytes": 66330,
+      "bytes": 67606,
       "width": 900,
       "height": 505
     },
@@ -2509,7 +2509,7 @@
       "filename": "34122705711-a-web-b040f72c05-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Mayor_Sarria_Lugo_Camino_Frances_09.jpg",
-      "bytes": 46472,
+      "bytes": 46936,
       "width": 900,
       "height": 505
     },
@@ -2522,7 +2522,7 @@
       "filename": "34122705711-a-web-c81e1f9c75-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/06/Albergue_Hostel_Andaina_Sarria_Lugo_Camino_Frances_04.jpg",
-      "bytes": 51570,
+      "bytes": 52802,
       "width": 900,
       "height": 505
     },
@@ -2535,7 +2535,7 @@
       "filename": "34122705711-a-web-c9e53b4f20-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Credencial_Sarria_Lugo_Camino_Frances.jpg",
-      "bytes": 55548,
+      "bytes": 57412,
       "width": 900,
       "height": 505
     },
@@ -2548,7 +2548,7 @@
       "filename": "34122706200-a-fo-00320-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/09/Albergue_Complexo_Xacobeo_Triacastela_09-e1560588522419.jpg",
-      "bytes": 62910,
+      "bytes": 64824,
       "width": 900,
       "height": 505
     },
@@ -2561,7 +2561,7 @@
       "filename": "34122706200-a-fo-00324-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_Berce_do_Camino_Triacastela_Lugo_Camino_Frances_07.jpg",
-      "bytes": 52398,
+      "bytes": 53192,
       "width": 900,
       "height": 505
     },
@@ -2574,7 +2574,7 @@
       "filename": "34122706200-a-web-1248601200-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/09/Albergue_Pension_Lemos_Triacastela_10-e1560587865280.jpg",
-      "bytes": 54684,
+      "bytes": 54696,
       "width": 900,
       "height": 505
     },
@@ -2587,7 +2587,7 @@
       "filename": "34122706200-a-web-f977b9a1b3-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_A_Horta_de_Abel_Triacastela_Camino_Frances.jpg",
-      "bytes": 120552,
+      "bytes": 121312,
       "width": 900,
       "height": 505
     },
@@ -2600,7 +2600,7 @@
       "filename": "34122706202-a-web-342fab56ee-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/05/Albergue_Fillobal_Fillobal_Lugo_Camino_Frances_vista_2.jpg",
-      "bytes": 45908,
+      "bytes": 46800,
       "width": 900,
       "height": 505
     },
@@ -2613,7 +2613,7 @@
       "filename": "34153102900-a-fo-00330-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_Casa_de_la_Abuela_Los_Arcos_Navarra_Camino_Frances_01.jpg",
-      "bytes": 68294,
+      "bytes": 69446,
       "width": 900,
       "height": 505
     },
@@ -2626,7 +2626,7 @@
       "filename": "34153102900-a-web-85fd174684-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2026/03/Albergue_Los_Arcos_Camino_Frances_01.webp",
-      "bytes": 54694,
+      "bytes": 55696,
       "width": 900,
       "height": 505
     },
@@ -2639,7 +2639,7 @@
       "filename": "34153102900-a-web-c98f07792a-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/04/Albergue_Casa_Arquena_Los_Arcos_Camino_Frances_01.jpg",
-      "bytes": 36624,
+      "bytes": 37052,
       "width": 900,
       "height": 505
     },
@@ -2652,7 +2652,7 @@
       "filename": "34153105800-a-web-889babe594-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2021/11/Albergue_Lorentx_Aterpea_Burguete_Navarra_Camino_Frances_21.jpg",
-      "bytes": 60214,
+      "bytes": 60116,
       "width": 900,
       "height": 505
     },
@@ -2665,7 +2665,7 @@
       "filename": "34153107400-a-web-c295e93d7d-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/06/Albergue_Casa_Maralotx_Cirauqui_Camino_Frances_01.jpg",
-      "bytes": 77852,
+      "bytes": 79062,
       "width": 900,
       "height": 505
     },
@@ -2678,7 +2678,7 @@
       "filename": "34153109201-a-fo-00340-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/03/Albergue_Irugoienea_Espinal_Aurizberri_Camino_Frances_01.jpg",
-      "bytes": 44628,
+      "bytes": 44602,
       "width": 900,
       "height": 505
     },
@@ -2691,7 +2691,7 @@
       "filename": "34153109201-a-web-1fcd24195e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/03/Albergue_Haizea_Aurizberri_Espinal_Navarra_Camino_Frances_10.jpg",
-      "bytes": 45232,
+      "bytes": 45024,
       "width": 900,
       "height": 505
     },
@@ -2704,7 +2704,7 @@
       "filename": "34153109700-a-web-296eb4ba4d-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/03/Albergue_Agora_Hostel_Estella_Navarra_Camino_Frances_01.jpg",
-      "bytes": 38818,
+      "bytes": 38498,
       "width": 900,
       "height": 505
     },
@@ -2717,7 +2717,7 @@
       "filename": "34153109700-a-web-429ab57106-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2015/01/Albergue_San_Ciprian_Ayegui_Navarra_01-e1560235071450.jpg",
-      "bytes": 46806,
+      "bytes": 48604,
       "width": 900,
       "height": 505
     },
@@ -2730,7 +2730,7 @@
       "filename": "34153109700-a-web-8e13dd0bb8-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/01/Albergue_Alda_Estella_Hostel_Estella_Navarra_Camino_Frances_04.jpg",
-      "bytes": 117192,
+      "bytes": 119944,
       "width": 900,
       "height": 505
     },
@@ -2743,7 +2743,7 @@
       "filename": "34153109700-a-web-b1cd924730-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/12/Albergue_La_Hosteria_de_Curtidores_Estella_Navarra_06.jpg",
-      "bytes": 70076,
+      "bytes": 71970,
       "width": 1024,
       "height": 575
     },
@@ -2756,7 +2756,7 @@
       "filename": "34153109800-a-web-613eaf6b23-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/05/Albergue_Suseia_Pilgrims_Home_Zubiri_Camino_Frances_08.jpg",
-      "bytes": 54486,
+      "bytes": 54664,
       "width": 900,
       "height": 505
     },
@@ -2769,7 +2769,7 @@
       "filename": "34153109800-a-web-92a919ac23-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/05/Albergue_Segunda_Etapa_Zubiri_Navarra_Camino_Frances_08.jpg",
-      "bytes": 59946,
+      "bytes": 61962,
       "width": 900,
       "height": 505
     },
@@ -2782,7 +2782,7 @@
       "filename": "34153109800-a-web-a9794f49b0-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/06/Albergue_Hostel_Aca_Alla_Urdaniz_Navarra_Camino_Frances.jpg",
-      "bytes": 48586,
+      "bytes": 49444,
       "width": 900,
       "height": 505
     },
@@ -2795,7 +2795,7 @@
       "filename": "34153109800-a-web-a9794f49b0-02.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/06/Albergue_Hostel_Aca_Alla_Urdaniz_Navarra_Camino_Frances_chill_out.jpg",
-      "bytes": 85294,
+      "bytes": 87198,
       "width": 900,
       "height": 505
     },
@@ -2808,7 +2808,7 @@
       "filename": "34153109800-a-web-a9794f49b0-03.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/06/Albergue_Hostel_Aca_Alla_Urdaniz_Navarra_Camino_Frances_aseo.jpg",
-      "bytes": 26902,
+      "bytes": 27502,
       "width": 900,
       "height": 505
     },
@@ -2821,7 +2821,7 @@
       "filename": "34153109800-a-web-a9794f49b0-04.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/06/Albergue_Hostel_Aca_Alla_Urdaniz_Navarra_Camino_Frances_piscina.jpg",
-      "bytes": 84500,
+      "bytes": 86118,
       "width": 900,
       "height": 505
     },
@@ -2834,7 +2834,7 @@
       "filename": "34153109800-a-web-a9794f49b0-05.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/06/Albergue_Hostel_Aca_Alla_Urdaniz_Navarra_Camino_Frances_barbacoa.jpg",
-      "bytes": 116150,
+      "bytes": 120748,
       "width": 900,
       "height": 505
     },
@@ -2847,7 +2847,7 @@
       "filename": "34153109800-a-web-a9794f49b0-06.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/06/Albergue_Hostel_Aca_Alla_Urdaniz_Navarra_Camino_Frances_sala_literas.jpg",
-      "bytes": 29492,
+      "bytes": 29274,
       "width": 900,
       "height": 505
     },
@@ -2860,7 +2860,7 @@
       "filename": "34153109800-a-web-a9794f49b0-07.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/06/Albergue_Hostel_Aca_Alla_Urdaniz_Navarra_Camino_Frances_cocina_salon_comedor.jpg",
-      "bytes": 47822,
+      "bytes": 48162,
       "width": 900,
       "height": 505
     },
@@ -2873,7 +2873,7 @@
       "filename": "34153109800-a-web-a9794f49b0-08.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/06/Albergue_Hostel_Aca_Alla_Urdaniz_Navarra_Camino_Frances_cocina_comedor.jpg",
-      "bytes": 38606,
+      "bytes": 39424,
       "width": 900,
       "height": 505
     },
@@ -2886,7 +2886,7 @@
       "filename": "34153109801-a-web-db8e66cfb6-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/02/Albergue_San_Nicolas_Larrasoana_Navarra_Camino_Frances_01.jpg",
-      "bytes": 69866,
+      "bytes": 70274,
       "width": 900,
       "height": 505
     },
@@ -2899,7 +2899,7 @@
       "filename": "34153120100-a-web-3e50433539-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2026/08/Albergue_Pamplona_Pamplona.jpg",
-      "bytes": 109728,
+      "bytes": 111980,
       "width": 1024,
       "height": 575
     },
@@ -2912,7 +2912,7 @@
       "filename": "34153120100-a-web-43846d1e70-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/12/Albergue_Casa_Ibarrola_Pamplona_literas.jpg",
-      "bytes": 60302,
+      "bytes": 60726,
       "width": 1024,
       "height": 575
     },
@@ -2925,7 +2925,7 @@
       "filename": "34153120100-a-web-a0945ae24c-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/12/Albergue_Plaza_Catedral_Pamplona_15.jpg",
-      "bytes": 62220,
+      "bytes": 62782,
       "width": 1024,
       "height": 575
     },
@@ -2938,7 +2938,7 @@
       "filename": "34153120100-h-bo-01233-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/12/Albergue_Aloha_Hostel_Pamplona_terraza-e1580734774723.jpg",
-      "bytes": 104368,
+      "bytes": 106060,
       "width": 900,
       "height": 505
     },
@@ -2951,7 +2951,7 @@
       "filename": "34153120600-a-web-0232a4356f-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/06/Albergue_Estrella_Guia_Puente_la_Reina_Navarra_Camino_Frances_11.jpg",
-      "bytes": 53662,
+      "bytes": 54200,
       "width": 900,
       "height": 505
     },
@@ -2964,7 +2964,7 @@
       "filename": "34153120600-a-web-18b5b0a814-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/12/Albergue_Santiago_Apostol_Puente_la_Reina_Navarra_02-e1560232932281.jpg",
-      "bytes": 79140,
+      "bytes": 80364,
       "width": 900,
       "height": 505
     },
@@ -2977,7 +2977,7 @@
       "filename": "34153120600-a-web-2863eae985-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/12/Albergue_Jakue_Puente_la_Reina_Navarra_Camino_Frances_04.jpg",
-      "bytes": 183164,
+      "bytes": 185322,
       "width": 1024,
       "height": 575
     },
@@ -2990,7 +2990,7 @@
       "filename": "34153120600-a-web-b8efd07f91-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/07/Albergue_Gares_Puente_la_Reina_Navarra_Camino_Frances_01.jpg",
-      "bytes": 28668,
+      "bytes": 29126,
       "width": 900,
       "height": 505
     },
@@ -3003,7 +3003,7 @@
       "filename": "34153120600-a-web-fa9bd889f5-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/12/Albergue_Puente_Puente_la_Reina_Navarra_recepcion.jpg",
-      "bytes": 47604,
+      "bytes": 47538,
       "width": 1024,
       "height": 559
     },
@@ -3016,7 +3016,7 @@
       "filename": "34153121900-a-web-1d7a682c55-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2021/08/Albergue_Palacio_de_Sansol_Sansol_Navarra_Camino_Frances_06.jpg",
-      "bytes": 86676,
+      "bytes": 88252,
       "width": 900,
       "height": 505
     },
@@ -3029,7 +3029,7 @@
       "filename": "34153121900-a-web-ea57a60946-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2017/11/Albergue_Sansol_Sansol_Navarra_07.jpg",
-      "bytes": 136886,
+      "bytes": 139832,
       "width": 1024,
       "height": 574
     },
@@ -3042,7 +3042,7 @@
       "filename": "34153123100-a-web-d1cb7f876e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/01/Albergue_La_Pata_de_Oca_Torres_del_Rio_Navarra_Camino_Frances_13.jpg",
-      "bytes": 62838,
+      "bytes": 63338,
       "width": 900,
       "height": 505
     },
@@ -3055,7 +3055,7 @@
       "filename": "34153123100-a-web-f0ec219685-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_Casa_Mariela_Torres_del_Rio_Navarra_Camino_Frances_05.jpg",
-      "bytes": 77810,
+      "bytes": 80512,
       "width": 900,
       "height": 505
     },
@@ -3068,7 +3068,7 @@
       "filename": "34153124600-a-web-a50eac97f5-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_Casa_Baztan_Uterga_Navarra_Camino_Frances_01.jpg",
-      "bytes": 48842,
+      "bytes": 50390,
       "width": 900,
       "height": 505
     },
@@ -3081,7 +3081,7 @@
       "filename": "34153125800-a-web-602e83eec0-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/10/Albergue_municipal_Villava_Navarra_Camino_Frances_01.jpg",
-      "bytes": 85972,
+      "bytes": 86822,
       "width": 900,
       "height": 505
     },
@@ -3094,7 +3094,7 @@
       "filename": "34153126001-a-web-62532016cd-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_La_Bodega_del_Camino_Lorca_Navarra_Camino_Frances_02.jpg",
-      "bytes": 79840,
+      "bytes": 81274,
       "width": 900,
       "height": 505
     },
@@ -3107,7 +3107,7 @@
       "filename": "34172605000-a-web-2fb68959ea-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/01/Albergue_Victoria_Ciruena_La_Rioja_08.jpg",
-      "bytes": 39716,
+      "bytes": 39536,
       "width": 900,
       "height": 505
     },
@@ -3120,7 +3120,7 @@
       "filename": "34172606900-a-web-ac8ddcba13-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2022/04/Albergue_Nuestra_Senora_de_Carrasquedo_Granon_La_Rioja_Camino_Frances_01.jpg",
-      "bytes": 166962,
+      "bytes": 170136,
       "width": 900,
       "height": 506
     },
@@ -3133,7 +3133,7 @@
       "filename": "34172608900-a-web-46e1ea8373-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/01/Albergue_Albas_Logrono_Camino_Frances_01.jpg",
-      "bytes": 51948,
+      "bytes": 53208,
       "width": 900,
       "height": 505
     },
@@ -3146,7 +3146,7 @@
       "filename": "34172608900-a-web-a99b47ae9e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/01/Albergue_Santiago_Apostol_Logrono_La_Rioja_05.jpg",
-      "bytes": 52058,
+      "bytes": 52270,
       "width": 900,
       "height": 505
     },
@@ -3159,7 +3159,7 @@
       "filename": "34172608900-a-web-c755b907ea-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/01/Albergue_Logrono_Centro_Camino_Frances_08.jpg",
-      "bytes": 35442,
+      "bytes": 35686,
       "width": 900,
       "height": 505
     },
@@ -3172,7 +3172,7 @@
       "filename": "34172608900-a-web-e140503749-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/01/Albergue_Winederful_Hostel_Cafe_Logrono_Camnino_Frances_02.jpg",
-      "bytes": 64798,
+      "bytes": 65618,
       "width": 900,
       "height": 505
     },
@@ -3185,7 +3185,7 @@
       "filename": "34172608900-a-web-e5d1f2eb6e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_Logrono_Logrono_La_Rioja_Camino_Frances_10.jpg",
-      "bytes": 66910,
+      "bytes": 68404,
       "width": 900,
       "height": 505
     },
@@ -3198,7 +3198,7 @@
       "filename": "34172610200-a-web-8d2d09ed1e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/04/Albergue_El_Peregrino_Najera_La_Rioja_Camino_Frances_02.jpg",
-      "bytes": 52510,
+      "bytes": 53242,
       "width": 900,
       "height": 505
     },
@@ -3211,7 +3211,7 @@
       "filename": "34172610500-a-fo-00411-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/01/Albergue_A_la_Sombrea_del_Laurel_Navarrete.jpg",
-      "bytes": 42078,
+      "bytes": 42384,
       "width": 900,
       "height": 505
     },
@@ -3224,7 +3224,7 @@
       "filename": "34172610500-a-web-4921bb946d-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2025/03/Albergue_Ikigai_Navarrete_Camino_Frances_01.jpg",
-      "bytes": 44532,
+      "bytes": 44928,
       "width": 900,
       "height": 505
     },
@@ -3237,7 +3237,7 @@
       "filename": "34172610500-a-web-c0d3c03dd7-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2023/02/Albergue_La_Iglesia_Navarrete_La_Rioja_Camino_Frances_05.jpg",
-      "bytes": 63392,
+      "bytes": 63670,
       "width": 900,
       "height": 505
     },
@@ -3250,7 +3250,7 @@
       "filename": "34172610500-a-web-c33486b57e-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/07/Albergue_El_Refugio_Navarrete_Camino_Frances_02.jpg",
-      "bytes": 17172,
+      "bytes": 16854,
       "width": 900,
       "height": 505
     },
@@ -3263,7 +3263,7 @@
       "filename": "34172610500-a-web-d575d732b9-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_Buen_Camino_Navarrete_La_Rioja_Camino_Frances_06.jpg",
-      "bytes": 45994,
+      "bytes": 46382,
       "width": 900,
       "height": 505
     },
@@ -3276,7 +3276,7 @@
       "filename": "34172613800-a-web-7d61ee9c67-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2024/02/Albergue_Hostel_Carpe_Viam_Santo_Domingo_de_la-_Calzada_Camino_Frances_01.jpg",
-      "bytes": 63982,
+      "bytes": 63986,
       "width": 900,
       "height": 505
     },
@@ -3289,7 +3289,7 @@
       "filename": "34172613800-a-web-8e1ac89451-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2019/01/Albergue_RoomConcept_Hostel_Santo_Domingo_de_la_Calzada_Camino_Frances_05.jpg",
-      "bytes": 38870,
+      "bytes": 39632,
       "width": 900,
       "height": 505
     },
@@ -3302,14 +3302,15 @@
       "filename": "34172616300-a-web-610182b175-01.webp",
       "status": "uploaded",
       "fetchedUrl": "https://www.alberguescaminosantiago.com/wp-content/uploads/2018/07/Albergue_San_Saturnino_Ventosa_La_Rioja_Camino_Frances_01.jpg",
-      "bytes": 135924,
+      "bytes": 139076,
       "width": 900,
       "height": 505
     }
   ],
   "watermarkPosition": "top-left",
   "watermarkCornerMask": "rounded source panel cropped; checkerboard/white corner pixels removed",
-  "watermarkMargin": "horizontal 12% of source width, minimum 92px; vertical 6%, minimum 48px; compensates app centerCrop",
+  "watermarkMargin": "horizontal 10% of source width, minimum 78px; vertical 5%, minimum 40px; compensates app centerCrop",
   "watermarkBackground": "solid black, opaque",
-  "watermarkGrid": false
+  "watermarkGrid": false,
+  "watermarkBox": "26% source width; height 0.36x width"
 }
